@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    font-family: 'Brush Script MT', cursive;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+ul, li, a {
+    color: black;
+    font-size: large;
+}
+a{
+    text-decoration: none;
+}
